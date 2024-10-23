@@ -217,7 +217,7 @@ The following guides illustrate how to use some features concretely:
 - [Accessing Data with
   JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
-# Proof of Concept
+# ✅ Proof of Concept
 In this section, the results of the Proof of Concept completed on October 25th are presented, 
 detailing both the developed functionality and the tests that validate its viability within the code. 
 Additionally, it includes a brief description of the team management and the software tools used for this milestone.
