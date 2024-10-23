@@ -216,3 +216,30 @@ The following guides illustrate how to use some features concretely:
   Spring](https://spring.io/guides/tutorials/rest/)
 - [Accessing Data with
   JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+
+# Proof of Concept
+In this section, the results of the Proof of Concept completed on October 25th are presented, 
+detailing both the developed functionality and the tests that validate its viability within the code. 
+Additionally, it includes a brief description of the team management and the software tools used for this milestone.
+
+## CSV Upload
+Description for this feature and tests associated (Why they proof feature correctness)
+
+## Geolocation Service
+Description for this feature and tests associated (Why they proof feature correctness)
+
+## QR Code Generation
+Description for this feature and tests associated (Why they proof feature correctness)
+
+## Branded Links
+Description for this feature and tests associated (Why they proof feature correctness)
+
+## Software tools used for PoC
+Description for each library, framework, API... used for Poc and why to use them
+
+## How to run the PoC
+Description of how to run new features
+
+## Challenges during PoC implementation
+Description of challenges encountered during implementation and how they were addressed.
+
